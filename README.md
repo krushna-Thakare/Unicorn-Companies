@@ -1,5 +1,6 @@
 # Unicorn Companies
-![Dashboard](https://github.com/AnalystInsights/POWER_BI_Unicorn_Companies_Dashboard_Visualization/assets/145913907/d0b35b1d-f219-4082-adbe-1eacd0cf3a20)
+![unicorn_companies](https://github.com/krushna-Thakare/Codex-Beverage/assets/154303001/785ccaff-06ac-4f59-94f0-dc8dbc509d25)
+
 Unicorn companies, privately held startups valued at over $1 billion, serve as leading indicators of industry success and economic health. This Power BI dashboard offers a comprehensive overview of unicorn companies worldwide. It includes data on the number of companies, their valuations, funding, industries, and geographic locations.
 
 ## Data Preparation
